@@ -1,8 +1,18 @@
 # อ่านตรงนี้ก่อนนนน
 
-<p align="center"><strong><i>ติดตั้งคำสั่งตามนี้ก่อนนะ สำหรับผู้ใช้ใหม่:</i></strong</p>
+<br><br>
+**ติดตั้งตำสั่งผู้ใช้ใหม่**:<br>
+```
+pkg update -y
+pkg upgrade -y
+pkg install git
+pkg install python
+```
+<br><br>
+**ติดตั้งไฟล์ลง TERMUX**:<br>
+```
+git clone https://github.com/EH4404/spammer
 
-<br>
-* <a href="https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe">Python3</a>
-* `pkg update -y && pkg upgrade -y && pkg install git -y && pkg install python -y`
+cd spammer
+```
 <br><br>
