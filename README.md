@@ -23,3 +23,10 @@ pip install -U -r requirements.txt
 
 python main.py
 ```
+<br><br>
+
+<p align="center">🤘 เครดิต 🤘</p>
+
+* <a href="https://youtube.com/channel/UCdaBhAIBlxdg1_8D0mfB1SA">YouTube</a>
+
+* <a href="https://www.facebook.com/EH.STORE999">Facebook</a>
