@@ -16,3 +16,10 @@ git clone https://github.com/EH4404/spammer
 cd spammer
 ```
 <br><br>
+
+**รันไฟล์ยิงเบอร์**:<br>
+```
+pip install -U -r requirements.txt
+
+python main.py
+```
